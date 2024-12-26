@@ -1,4 +1,8 @@
 // Open RAW file
+
+
+
+
 Section: C++ Basics 1
 Resources:
     - Lecture slides 1.1 C++ Basics 1: https://drive.google.com/file/d/1wRiGozqal1s7YD0dH88dmS2ZNUR2Kqp1/view
