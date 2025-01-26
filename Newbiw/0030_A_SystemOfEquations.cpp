@@ -14,5 +14,5 @@ signed main(){
             }
         }
     }
-    cout << ans;    
+    cout << ans;    // (3,0)
 }
