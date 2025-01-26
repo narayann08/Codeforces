@@ -7,7 +7,7 @@ using namespace std;
 signed main(){
     string n; cin >> n;
     int done=1, i=0;
-    while(i<n.size()){
+    while(i<n.size()){  // O(N)
         if(i+2<n.size() && n.substr(i,3)=="144"){
             i += 3;
         }
