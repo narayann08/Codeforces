@@ -7,7 +7,7 @@ using namespace std;
 signed main(){
     int n, m, ans=0;
     cin >> n >> m;
-    for(int a=0; a*a<=n; a++){
+    for(int a=0; a*a<=n; a++){   // TC: O(^N * ^M)
         for(int b=0; b*b<=m; b++){
             if(((a*a + b) == n) && ((b*b + a) == m)) {
                 ans++;
